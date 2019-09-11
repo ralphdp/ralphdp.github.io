@@ -1,4 +1,4 @@
-# Rafael De Paz - Sr. Web Developer - Professional Skills
+# Rafael De Paz (Sr. Web Developer)
 
 <p>Private repositories enabled.</p>
 
