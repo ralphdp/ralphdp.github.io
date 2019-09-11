@@ -30,7 +30,7 @@ Google (GA,GTM,Adwords) / Bing
 Mac OS X / Windows (XP, Vista, 7, 10) / Linux (Ubuntu)
 
 <h2>Services</h2>
-Asana / Mailchimp / Campaign Monitor / Hotjar
+Asana / Mailchimp / Campaign Monitor / Hotjar / Bynder
 
 <h2>CRM</h2>
 Sage / Sugar
