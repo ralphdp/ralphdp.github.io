@@ -1,3 +1,3 @@
 # rdepaz.com
 
-test
+Private repositories are available.
