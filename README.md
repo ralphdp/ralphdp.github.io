@@ -2,8 +2,7 @@
 
 <p>Private repositories enabled.</p>
 
-<p><a href="https://www.linkedin.com/in/rafael-de-paz-2514b1122/" title="Rafael De Paz">Linkedin</a> | <a href="https://rdepaz.com" title="rdepaz.com">Website</a> | <a href="https://drive.google.com/open?id=1euYC2ABBFNAd157vJv69h5nX0yoaMjoo" title="Rafael De Paz">Resume</a></p>
-<hr/>
+<p><a href="https://www.linkedin.com/in/rafael-de-paz-2514b1122/" title="Rafael De Paz">Linkedin</a> | <a href="https://rdepaz.com" title="rdepaz.com">Website</a> | <a href="https://drive.google.com/file/d/0B8qTaEwJN95Ab3dFUDhlU1VwNzg/view?usp=sharing" title="Rafael De Paz">Resume</a></p>
 
 <h2>Overview:</h2>
 <p>Full stack development of web based applications.</p>
