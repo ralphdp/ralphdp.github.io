@@ -1,13 +1,12 @@
-# Rafael De Paz (Sr. Web Developer)
+# Rafael De Paz (Developer, Administrator and Manager)
 
 <p>Private repositories enabled.</p>
 
 <p><a href="https://www.linkedin.com/in/rafael-de-paz-2514b1122/" title="Rafael De Paz">Linkedin</a> | <a href="https://rdepaz.com" title="rdepaz.com">Website</a> | <a href="https://drive.google.com/open?id=1euYC2ABBFNAd157vJv69h5nX0yoaMjoo" title="Rafael De Paz">Resume</a></p>
-
+<hr/>
 
 <h2>Overview:</h2>
 <p>Full stack development of web based applications.</p>
-<hr/>
 
 <h2>Skills:</h2>
 <h3>LAMP Stack Development</h3>
