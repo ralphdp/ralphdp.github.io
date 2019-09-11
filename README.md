@@ -14,8 +14,8 @@ HTML1-5 (Bootstrap 3/4) / JAVASCRIPT (jQuery, react.js, ) / CSS1-3 (Bootstrap 3/
 <h2>Back-End Development</h2>
 PHP (laravel, cakephp) / Python / Apache
 
-<h1>CMS</h2>
-Wordpress (Woocommerce) / Magento / OSCommerce / CS-Cart
+<h2>Content Management Systems</h2>
+Wordpress (Woocommerce) / Magento / OSCommerce / CS-Cart / Custom
 
 <h2>SEO</h2>
 SEMRush / Yoast 
