@@ -1,6 +1,6 @@
 # Rafael De Paz - Sr. Website Developer
 <p><b>Developer, Administrator and Manager</b></p>
-<p><a href="https://rdepaz.com" title="rdepaz.com">Website</a> | <a href="https://www.linkedin.com/in/rafael-de-paz-2514b1122/" title="Rafael De Paz">Linkedin</a> | <a href="https://drive.google.com/file/d/0B8qTaEwJN95Ab3dFUDhlU1VwNzg/view?usp=sharing" title="Rafael De Paz">Resume</a></p>
+<p><a href="https://rdepaz.com" title="rdepaz.com">Website / Portfolio</a> | <a href="https://www.linkedin.com/in/rafael-de-paz-2514b1122/" title="Rafael De Paz">Linkedin</a> | <a href="https://drive.google.com/file/d/0B8qTaEwJN95Ab3dFUDhlU1VwNzg/view?usp=sharing" title="Rafael De Paz">Resume</a></p>
 <p>Full stack development of web based applications.</p>
 <h2>Skills:</h2>
 <h3>LAMP Stack Development</h3>
