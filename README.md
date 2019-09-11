@@ -1,9 +1,9 @@
-# Rafael De Paz
-<p>Developer, Administrator and Manager</p>
+# Rafael De Paz - Sr. Website Developer
+<p><b>Developer, Administrator and Manager</b></p>
 <p><a href="https://www.linkedin.com/in/rafael-de-paz-2514b1122/" title="Rafael De Paz">Linkedin</a> | <a href="https://rdepaz.com" title="rdepaz.com">Website</a> | <a href="https://drive.google.com/file/d/0B8qTaEwJN95Ab3dFUDhlU1VwNzg/view?usp=sharing" title="Rafael De Paz">Resume</a></p>
 <p>Full stack development of web based applications.</p>
-<hr/>
 <h2>Skills:</h2>
+<hr/>
 <h3>LAMP Stack Development</h3>
 <p>Linux / Apache / mySQL / PHP</p>
 <hr/>
@@ -59,6 +59,8 @@
 <p>2D and 3D Modeling</p>
 <p>Video Editing</p>
 <p>Asset Management</p>
+<p>Security Hardening</p>
+<p>Consultations and Auditing</p>
 <hr/>
 <h3>Languages</h3>
 <p>Español</p>
