@@ -68,3 +68,4 @@
 <h3>Languages</h3>
 <p>Español</p>
 <p>Portuguese</p>
+<img src="https://github.com/ralphdp/ralphdp.github.io/blob/master/logo.png" alt="logo" style="display:none;"/>
