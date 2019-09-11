@@ -1,10 +1,12 @@
-# Rafael De Paz
+# Rafael De Paz / Professional Skills
 
 Private repositories enabled.
 
 <a href="https://www.linkedin.com/in/rafael-de-paz-2514b1122/" title="Rafael De Paz">Linkedin</a> | <a href="https://rdepaz.com" title="rdepaz.com">Website</a> | <a href="https://drive.google.com/open?id=1euYC2ABBFNAd157vJv69h5nX0yoaMjoo" title="Rafael De Paz">Resume</a>
 
-<h2>LAMP Stack Development (Linux / Apache / MySQL / PHP)</h2>
+<hr/>
+
+<h2>LAMP Stack Development</h2>
 
 <h2>Front-End Development</h2>
 HTML1-5 (Bootstrap 3/4) / JAVASCRIPT (jQuery, react.js, ) / CSS1-3 (Bootstrap 3/4)
@@ -25,7 +27,7 @@ Google / Bing
 Mac OS X / Windows (XP, Vista, 7, 10) / Linux (Ubuntu)
 
 <h2>Services</h2>
-Asana / Campaign Monitor
+Asana / Mailchimp / Campaign Monitor / Hotjar
 
 <h1>CRM</h2>
 Sage
