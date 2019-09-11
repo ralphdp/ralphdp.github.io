@@ -8,7 +8,7 @@
 <hr/>
 <h3>Front-End Development</h3>
 <p>HTML1-5 (Bootstrap 3/4)</p>
-<p>JAVASCRIPT (jquery, react, vue, chart.js, d3.js, node.js, tensorflow)</p>
+<p>JAVASCRIPT (jquery, angular, react, vue, chart.js, d3.js, node.js, typescript, tensorflow)</p>
 <p>CSS1-3 (Bootstrap 3/4, w3.css, foundation, skeleton)</p>
 <p>SCSS</p>
 <hr/>
@@ -16,6 +16,8 @@
 <p>PHP5,7 (laravel, rails)</p>
 <p>Python 3</p>
 <p>Apache</p>
+<p>mySQL</p>
+<p>MongoDB</p>
 <hr/>
 <h3>Content Management Systems</h3>
 <p>Wordpress (Woocommerce)</p>
@@ -29,6 +31,7 @@
 <p>Yoast</p>
 <hr/>
 <h3>SEA</h3>
+<p>PPC Campaigns</p>
 <p>Google (GA,GTM,Adwords)</p>
 <p>Bing</p>
 <hr/>
@@ -38,6 +41,7 @@
 <p>Linux (Ubuntu)</p>
 <hr/>
 <h3>Services</h3>
+<p>AWS</p>
 <p>Asana</p>
 <p>Mailchimp</p>
 <p>Campaign Monitor</p>
