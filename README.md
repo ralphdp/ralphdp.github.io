@@ -25,23 +25,16 @@ Google / Bing
 Mac OS X / Windows (XP, Vista, 7, 10) / Linux (Ubuntu)
 
 <h2>Services</h2>
-Asana
-Campaign Monitor
+Asana / Campaign Monitor
 
 <h1>CRM</h2>
 Sage
 
 <h2>Applications</h2>
-Adobe CC
-Autocad
-Microsoft Office (Word, Powerpoint, Excel)
+Adobe CC / Autocad / Microsoft Office (Word, Powerpoint, Excel)
 
 <h2>Other skills</h2>
-Data Entry
-3d Modeling
-Video Editing
-Asset Management
+Data Entry / 2D/3D Modeling / Video Editing / Asset Management
 
 <h2>Languages</h2>
-Español
-Portuguese
+Español / Portuguese
