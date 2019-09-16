@@ -49,6 +49,7 @@
 <p>Campaign Monitor</p>
 <p>Hotjar</p>
 <p>Bynder</p>
+<p>GIT</p>
 <hr/>
 <h3>Operating Systems</h3>
 <p>Mac OS X</p>
