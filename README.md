@@ -35,7 +35,7 @@
 <p>Bing</p>
 <hr/>
 <h3>SEA</h3>
-<p>PPC Campaigns</p>
+<p>PPC</p>
 <p>Google (Adwords)</p>
 <hr/>
 <h3>CRM</h3>
