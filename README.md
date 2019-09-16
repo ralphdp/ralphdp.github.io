@@ -37,10 +37,9 @@
 <p>Google (GA,GTM,Adwords)</p>
 <p>Bing</p>
 <hr/>
-<h3>Operating Systems</h3>
-<p>Mac OS X</p>
-<p>Windows (XP, Vista, 7, 10)</p>
-<p>Linux (Ubuntu)</p>
+<h3>CRM</h3>
+<p>Sage</p>
+<p>Sugar</p>
 <hr/>
 <h3>Services</h3>
 <p>AWS</p>
@@ -50,9 +49,10 @@
 <p>Hotjar</p>
 <p>Bynder</p>
 <hr/>
-<h3>CRM</h3>
-<p>Sage</p>
-<p>Sugar</p>
+<h3>Operating Systems</h3>
+<p>Mac OS X</p>
+<p>Windows (XP, Vista, 7, 10)</p>
+<p>Linux (Ubuntu)</p>
 <hr/>
 <h3>Applications</h3>
 <p>Adobe CC</p>
