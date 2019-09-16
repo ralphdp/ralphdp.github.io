@@ -19,6 +19,8 @@
 <p>mySQL</p>
 <p>MongoDB</p>
 <hr/>
+<h3>Custom Email Template Development</h3>
+<hr/>
 <h3>Content Management Systems</h3>
 <p>Wordpress (Woocommerce)</p>
 <p>Magento</p>
