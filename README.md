@@ -31,11 +31,12 @@
 <h3>SEO</h3>
 <p>SEMRush</p>
 <p>Yoast</p>
+<p>Google (GA,GTM)</p>
+<p>Bing</p>
 <hr/>
 <h3>SEA</h3>
 <p>PPC Campaigns</p>
-<p>Google (GA,GTM,Adwords)</p>
-<p>Bing</p>
+<p>Google (Adwords)</p>
 <hr/>
 <h3>CRM</h3>
 <p>Sage</p>
