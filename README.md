@@ -7,13 +7,13 @@
 <p>Linux / Apache / mySQL / PHP</p>
 <hr/>
 <h3>Front-End Development</h3>
-<p>HTML1-5 (Bootstrap 3/4)</p>
+<p>HTML 1-5 (Bootstrap 3/4/5)</p>
 <p>JAVASCRIPT (jquery, angular, react, vue, chart.js, d3.js, node.js, typescript, tensorflow)</p>
-<p>CSS1-3 (Bootstrap 3/4, w3.css, foundation, skeleton)</p>
+<p>CSS 1-3 (Bootstrap 3/4, w3.css, foundation, skeleton)</p>
 <p>SCSS</p>
 <hr/>
 <h3>Back-End Development</h3>
-<p>PHP5,7 (laravel, rails)</p>
+<p>PHP 5,7,8 (laravel, rails)</p>
 <p>Python 3</p>
 <p>Apache</p>
 <p>mySQL</p>
@@ -39,6 +39,7 @@
 <p>Google (Adwords)</p>
 <hr/>
 <h3>CRM</h3>
+<p>Hubspot</p>
 <p>Sage</p>
 <p>Sugar</p>
 <hr/>
