@@ -8,21 +8,25 @@
 <hr/>
 <h3>Front-End Development</h3>
 <p>HTML 1-5 (Bootstrap 3/4/5)</p>
-<p>JAVASCRIPT (jquery, angular, react, vue, chart.js, d3.js, node.js, typescript, tensorflow)</p>
-<p>CSS 1-3 (Bootstrap 3/4, w3.css, foundation, skeleton)</p>
+<p>JAVASCRIPT (jquery, angular, react, vue.js, chart.js, d3.js, node.js)</p>
+<p>CSS 1-3 (Bootstrap 3/4/5, w3.css, foundation, skeleton)</p>
 <p>SCSS</p>
 <hr/>
 <h3>Back-End Development</h3>
-<p>PHP 5,7,8 (laravel, rails)</p>
-<p>Python 3</p>
+<p>PHP 5,7,8 (laravel)</p>
+<p>Python 2/3</p>
 <p>Apache</p>
 <p>mySQL</p>
 <p>MongoDB</p>
 <hr/>
 <h3>Custom Email Template Development</h3>
+<p>Mailchimp</p>
+<p>Campaign Monitor</p>
 <hr/>
 <h3>Content Management Systems</h3>
 <p>Wordpress (Woocommerce)</p>
+<p>Drupal</p>
+<p>Joomla</p>
 <p>Magento</p>
 <p>OSCommerce</p>
 <p>CS-Cart</p>
@@ -46,8 +50,7 @@
 <h3>Services</h3>
 <p>AWS</p>
 <p>Asana</p>
-<p>Mailchimp</p>
-<p>Campaign Monitor</p>
+<p>Clickfunnels</p>
 <p>Hotjar</p>
 <p>Bynder</p>
 <p>GIT</p>
