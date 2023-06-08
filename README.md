@@ -3,7 +3,7 @@
 <p><a href="https://rdepaz.com" title="rdepaz.com">Website / Portfolio</a> | <a href="https://www.linkedin.com/in/rafael-de-paz-2514b1122/" title="Rafael De Paz">Linkedin</a> | <a href="https://drive.google.com/file/d/1kVwqNfJ0KTvrN3r8K1EHROa63VhD06Cz/view" title="Rafael De Paz">Resume</a> | <a href="mailto:ralphdp21@gmail.com">Email Me!</a></p>
 <p>Full stack development of web based applications.</p>
 <h2>Skills:</h2>
-<h3>LAMP Stack Development</h3>
+<h3>Full Stack Development</h3>
 <p>Linux / Apache / mySQL / PHP</p>
 <hr/>
 <h3>Front-End Development</h3>
@@ -25,11 +25,14 @@
 <hr/>
 <h3>Content Management Systems</h3>
 <p>Wordpress (Woocommerce)</p>
+<p>Shopify</p>
 <p>Drupal</p>
 <p>Joomla</p>
 <p>Magento</p>
+<p>Big Commerce</p>
 <p>OSCommerce</p>
 <p>CS-Cart</p>
+<p>Wix</p>
 <p>Custom</p>
 <hr/>
 <h3>SEO</h3>
@@ -54,6 +57,7 @@
 <p>Hotjar</p>
 <p>Bynder</p>
 <p>GIT</p>
+<p>OpenAI</p>
 <hr/>
 <h3>Operating Systems</h3>
 <p>Mac OS X</p>
