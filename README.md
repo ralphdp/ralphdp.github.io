@@ -1,7 +1,7 @@
 # Rafael De Paz — Systems Architect
 **Engineering Resilient Digital Infrastructures | Formalizing the Logos Kernel**
 
-[Website / Portfolio](https://rdepaz.com) | [LinkedIn](https://www.linkedin.com/in/rafael-de-paz-2514b1122/) | [Resume](https://drive.google.com/file/d/1kVwqNfJ0KTvrN3r8K1EHROa63VhD06Cz/view) | [Email Me](mailto:ralphdp21@gmail.com)
+[Website / Portfolio](https://rdepaz.com) | [LinkedIn](https://www.linkedin.com/in/rafael-de-paz-2514b1122/) | [Resume](https://resume.rdepaz.com) | [Email Me](mailto:me@rdepaz.com)
 
 ---
 
