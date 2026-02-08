@@ -6,33 +6,41 @@
 ---
 
 ## 🌐 Architectural Overview
-Systems Architect specializing in high-availability web applications, security hardening, and protocol development. I bridge the gap between complex backend logic and intuitive user interfaces, focusing on the structural integrity of the "Digital Grammar."
+Systems Architect specializing in high-availability web applications, security hardening, and protocol development. I bridge the gap between complex backend logic and intuitive user interfaces, focusing on the structural integrity of the "Digital Grammar." 
 
-Currently formalizing the **Logos Kernel Protocol** at [logos.pub](https://logos.pub).
+Expert in leveraging **AI-augmented workflows** (ChatGPT, Gemini, Grok) to accelerate development, testing, and system auditing. Currently formalizing the **Logos Kernel Protocol** at [logos.pub](https://logos.pub).
 
 ---
 
-## 🛠 Technical Stack & Specializations
+## 🛠 Technical Stack & System Layers
 
-### 🏗 Infrastructure & Systems Design
-* **Operating Systems:** Linux (Ubuntu/Debian), Windows, Mac OS X.
-* **Server Architecture:** Apache, AWS (EC2/S3/RDS), GIT Version Control.
-* **Security:** System Hardening, Protocol Auditing, Asset Management.
+### 🏗 Infrastructure, DevOps & Security
+* **Environment:** Linux (Ubuntu/Debian), Apache, Cloudflare, cPanel, WP-Engine, Siteground, Flywheel, MAMP.
+* **Cloud & Hosting:** AWS (EC2/S3/RDS), Dreamhost.
+* **Security:** Security Hardening, ADA Compliance, Protocol Auditing, Asset Management.
+* **Version Control:** Git, GitHub.
 
 ### 🧠 Core Logic & Backend (The Kernel)
-* **Languages:** PHP 5/7/8 (Laravel), Python 2/3, Node.js.
-* **Database Architecture:** MySQL (Relational), MongoDB (NoSQL).
-* **AI Integration:** Large Language Model (OpenAI) integration and agentic workflows.
+* **Stacks:** LAMP, MEAN, MEVN, MERN, PERN, Next.js.
+* **Languages:** PHP (5/7/8), Python 3, Node.js, Express.
+* **Database Architecture:** MySQL (Relational), PostgreSQL, MongoDB (NoSQL).
+* **AI Integration:** OpenAI/ChatGPT, Google Gemini, xAI Grok (Agentic workflows & optimization).
 
 ### 🎨 Interface & Interaction Layer
-* **Frameworks:** React, Vue.js, Angular, jQuery.
-* **Data Visualization:** D3.js, Chart.js.
-* **Foundational Syntax:** HTML5, CSS3/SCSS, Bootstrap 3-5, Foundation.
+* **Frameworks:** React, Next.js, Vue.js, TypeScript, shadcn/ui.
+* **Styling:** Tailwind CSS, Bootstrap 3-5, SCSS, Foundation, XHTML.
+* **Dynamic Logic:** AJAX, jQuery, JavaScript.
+* **Visualization:** Three.js (3D), D3.js, Chart.js.
 
-### 📈 Strategy & Integration
-* **Enterprise CMS:** WordPress (WooCommerce), Shopify, Drupal, Magento, BigCommerce.
-* **Growth Systems:** SEO (SEMRush/GA/GTM), SEA (PPC/Adwords), CRM (Hubspot/Sage).
-* **Consultancy:** Technical Auditing, 2D/3D Modeling (AutoCAD), Video Production.
+### 📊 Strategy, Marketing & Fintech Integration
+* **E-Commerce/Payments:** Stripe, Authorize.net.
+* **Growth Systems:** SEO/SEM (SEMRush/GA/GTM), Google Ads, Facebook Pixel.
+* **Enterprise CMS:** WordPress, Shopify, Drupal, Magento, BigCommerce, Wix, Joomla.
+* **CRM & Ops:** Hubspot, Sage, Asana, Monday.com, Slack, Zoom, Microsoft 365.
+
+### 🛠 Design & Development Tools
+* **IDEs:** VS Code, Nova, Dreamweaver.
+* **Design:** Figma, Adobe Creative Cloud, AutoCAD (2D/3D).
 
 ---
 
